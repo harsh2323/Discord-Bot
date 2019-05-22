@@ -1,7 +1,7 @@
 const {Client, Attachment} = require('discord.js');
 const bot = new Client();
 const fs = require('fs')
-bot.login('NTgwNTM5MjgzODk5ODA5ODA1.XOSOcA.fNQaG25_PiuE76Fk0y1HZRVPudU');
+bot.login('NTgwNTM5MjgzODk5ODA5ODA1.XOSkTQ.obHec-6piHhc1GhKgi631rgQyZ4');
 
 //Whenever the bot is online run this
 bot.on('ready', () => {
